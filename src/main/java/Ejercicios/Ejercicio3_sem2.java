@@ -1,5 +1,5 @@
 
-package Semana2;
+package Ejercicios;
 
 import java.util.Scanner;
 public class Ejercicio3_sem2 {

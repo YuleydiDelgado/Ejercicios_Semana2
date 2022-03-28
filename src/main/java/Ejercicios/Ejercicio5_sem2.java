@@ -1,5 +1,5 @@
 
-package Semana2;
+package Ejercicios;
 
 import java.text.DecimalFormat;
 import java.text.NumberFormat;

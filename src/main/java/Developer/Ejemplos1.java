@@ -1,10 +1,7 @@
 
+package Developer;
 
-package Semana2;
-
-
-public class Ejemplo1 {
-
+public class Ejemplos1 {
     public static void main(String[] args) {
         //Se hace el llamado cada de los metodos creados
         metodoConVoid();
@@ -15,16 +12,16 @@ public class Ejemplo1 {
     public static void metodoConVoid(){
         System.out.println("Contenido del metodo con void");
         } 
-    public static void metodoConInt(){
+    public static int metodoConInt(){
         System.out.println("Contenido del metodo con Int");
+        return 0;
     }
-    public static void metodoConDouble(){
+    public static double metodoConDouble(){
          System.out.println("Contenido del metodo con double");
+         return 0.0;
     }
     public static String metodoConString(){
         System.out.println("Contenido del metodo con String");
         return "";
-        }
+                }
 }
-
-    

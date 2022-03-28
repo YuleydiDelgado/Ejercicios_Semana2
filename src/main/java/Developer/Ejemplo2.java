@@ -1,9 +1,7 @@
 
-package Semana2;
+package Developer;
 
-
-public class CrearMetodosConParametros {
-    
+public class Ejemplo2 {
     public static void main(String[] args) {
         System.out.println("Metodo void");
         metodoConParametrosVoid(1, 24.34, "Lucas");
@@ -35,3 +33,5 @@ public class CrearMetodosConParametros {
          return valorString;
      }    
 }
+    
+
