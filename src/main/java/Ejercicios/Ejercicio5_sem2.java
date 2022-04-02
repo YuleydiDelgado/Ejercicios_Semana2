@@ -48,19 +48,8 @@ public class Ejercicio5_sem2 {
         
         System.out.println("Su salario total es de: $" + formato.format(total) );
                 
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
     }  
             
-    
 }
     
     
